@@ -45,7 +45,7 @@ I am a passionate IT professional with a background in Administration of Network
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd295b2FqbzE4bDYzdGF5Nmo3YmFuN2xlamVucXVkZGF1dTJ5cXlwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PZJ3gX1JFjjfRK7MZl/giphy.webp" width="50px">&nbsp;***Connect with me***
 
 <div align="left">
-  <a href="www.linkedin.com/in/miriam-ruiz-9000532a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/miriam-ruiz-9000532a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <a href="mailto:miriamruiz142@gmail.com" target="_blank">
