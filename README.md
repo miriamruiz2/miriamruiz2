@@ -5,6 +5,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a passionate IT professional with a background in Administration of Networked Computer Systems. Technology excites me, and I am always striving to learn new tools and methodologies that can optimize environments and enhance my professional growth in the IT world. I have a strong interest in DevOps methodologies and cloud technologies, and I am eager to keep expanding my knowledge in these areas.
+- 🌱 I’m currently learning ...
+  - Python
 
 <h1></h1>
 
@@ -32,8 +34,6 @@ I am a passionate IT professional with a background in Administration of Network
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
